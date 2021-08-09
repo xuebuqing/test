@@ -1,0 +1,10 @@
+{
+	"MasterId":1,
+	"Slave": 17,
+	"Fcode":2,
+	"Polling":1,
+	"Initaddress":1,
+	"Length":4,
+	"Data":[17, 4, 3, 2, 1, 6]
+	
+}
